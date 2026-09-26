@@ -1,0 +1,4 @@
+interface:
+  display_name: "浙大网站 VPN 分流排障"
+  short_description: "仅诊断浙大 zju.edu.cn 全部子域名的 VPN 访问问题并验证实际线路"
+  default_prompt: "请使用 $campus-vpn-routing 排查开启 VPN 后浙大网站无法访问的问题，覆盖 zju.edu.cn 全部子域名并验证浏览器访问。"
